@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>download-1.jpg</file>
+        <file>download-2.jpg</file>
+        <file>download-3.jpg</file>
+        <file>download.jpg</file>
+    </qresource>
+</RCC>
